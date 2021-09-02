@@ -1,0 +1,33 @@
+{
+  "animalData": [
+    {
+      "id": 2,
+      "name": "Cheetah",
+      "imageUrl": "https://cheetah.org/wp-content/uploads/2019/01/cheetah-mother-and-cubs-on-termite-mound.jpg",
+      "description": "A large cat native to Africa and central Iran. They are the fastest land animals.",
+      "donations": 0
+    },
+    {
+      "id": 3,
+      "name": "Mantis Shrimp",
+      "imageUrl": "https://media.wired.com/photos/5bc7d05bf867c63ebba1b104/1:1/w_1800,h_1800,c_limit/mantisshrimp-467993194.jpg",
+      "description": "The mantis shrimp can push with the speed of a .22 caliber bullet - strong enough to break the shells of its prey, as well as aquarium glass.",
+      "donations": 0
+    },
+    {
+      "id": 4,
+      "name": "Hedgehog",
+      "imageUrl": "https://uploads-ssl.webflow.com/5eae38112aed416159affd28/5ed131fc56d31049afd227b6_4.jpg",
+      "description": "Hedgehogs are quite athletic creatures. In the wild they run several miles a night.",
+      "donations": 0
+    },
+    {
+      "name": "dog",
+      "imageUrl": "https://kb.rspca.org.au/wp-content/uploads/2018/11/golder-retriever-puppy.jpeg",
+      "description": "a marvelous, doofy fluffbucket that will love you forever",
+      "donations": 20,
+      "id": 5
+    }
+  ]
+}
+
